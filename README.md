@@ -25,7 +25,7 @@
 ## 开始之前
 
 - 请简要了解 latex 语法，[参考链接](https://www.google.com/search?q=latex+%E6%95%99%E7%A8%8B)。
-- 为本项目和[论文模板项目](https://github.com/nju-lug/NJUThesis) star。
+- 为本项目和[论文模板项目](https://github.com/nju-lug/NJUThesis) 或者https://git.nju.edu.cn/nju-lug/nju-latex-templates/njuthesis。
 - 登录或者注册两个 latex 平台：[overleaf](https://www.overleaf.com/)、[tex.nju](https://tex.nju.edu.cn)。
 
 ## 模板创建
