@@ -1,3 +1,28 @@
+<p align="center">
+<h1 align="center"> <img src="./pics/icon/ai.png" width="30" /> Thesis Writing Tips</h1>
+</p>
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+   	<a href="https://github.com/QuanjunZhang/ThesisWritingTips">
+       <img alt="stars" src="https://img.shields.io/github/stars/QuanjunZhang/ThesisWritingTips" />
+  	</a>
+  	<a href="https://github.com/QuanjunZhang/ThesisWritingTips/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/QuanjunZhang/ThesisWritingTips?color=FF8000" />
+  	</a>
+    <a href="https://github.com/QuanjunZhang/ThesisWritingTips/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/QuanjunZhang/ThesisWritingTips/issues?color=0088ff"/>
+    </a>
+    <br />
+</p>
+
 1. 英文摘要中， 本文是thesis不是paper
 2. 中文中，一些英文的专有名词需要查阅确定，不要自己翻译，例如mutation testing叫变异测试，不叫突变测试
 
