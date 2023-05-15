@@ -7,6 +7,8 @@
 
 大小写 GitHub Github
 
+英文关键词不要自己翻译，如Software Test，应是Software Testing
+
 一些符号使用公式环境编辑，如P(t)和$P(t)$
 
 参考文献注意事项：
