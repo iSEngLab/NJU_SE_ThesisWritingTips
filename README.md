@@ -280,3 +280,8 @@
   
   \textbf {\kaishu d 架构：} ...
   ```
+  
+ ## 贡献者
+
+<a href="  https://github.com/QuanjunZhang">  <img src="https://avatars.githubusercontent.com/u/19492104?v=4"  width="80" /></a> 
+<a href=" https://github.com/d-w-x">  <img src="https://avatars.githubusercontent.com/u/35656321?v=4"  width="80" /></a> 
