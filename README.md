@@ -49,24 +49,8 @@
     - [表格](#表格)
     - [表格生成](#表格生成)
     - [其他内容](#其他内容)
+  - [Tips](#tips)
   - [贡献者](#贡献者)
-
-1. 英文摘要中， 本文是thesis不是paper
-2. 中文中，一些英文的专有名词需要查阅确定，不要自己翻译，例如mutation testing叫变异测试，不叫突变测试
-
-图表严禁跨页
-
-留白太多
-
-大小写 GitHub Github
-
-英文关键词不要自己翻译，如Software Test，应是Software Testing
-
-一些符号使用公式环境编辑，如P(t)和$P(t)$
-
-中文关键词应是你的方向，你的技术体现
-
-参考文献注意事项：
 
 # 毕业设计写作建议
 
@@ -342,7 +326,18 @@
   
   \textbf {\kaishu d 架构：} ...
   ```
-  
+
+## Tips
+1. 英文摘要中， 本文是thesis不是paper
+2. 中文中，一些英文的专有名词需要查阅确定，不要自己翻译，例如mutation testing叫变异测试，不叫突变测试
+3. 图表严禁跨页
+4. 每页不要留白太多
+5. 注意英文大小写，如GitHub Github
+6. 英文关键词不要自己翻译，如Software Test，应是Software Testing
+7. 一些符号使用公式环境编辑，如P(t)和$P(t)$
+8. 中文关键词应是你的方向，你的技术体现
+9. 参考文献注意事项，如会议期刊是否缩写，都需一致
+
  ## 贡献者
 
 <a href="  https://github.com/QuanjunZhang">  <img src="https://avatars.githubusercontent.com/u/19492104?v=4"  width="80" /></a> 
