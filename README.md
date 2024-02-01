@@ -306,7 +306,7 @@
 
 毕业论文如果需要画表格，有两种方式，
 1. 在线：在在线网站的表格里输入数据，然后可以自动转换成latex代码，如https://www.tablesgenerator.com/
-2. 本地（推荐）：在本地excel里将论文所需要的所有的数据整理好，包括表1 表2之类的，然后使用插件转成latex代码，插件https://github.com/ivankokan/Excel2LaTeX
+2. 本地（推荐）：在本地excel里将论文所需要的所有的数据整理好，包括表1 表2之类的，然后使用插件转成latex代码，插件 [https://github.com/ivankokan/Excel2LaTeX](https://github.com/ivankokan/Excel2LaTeX)
    
 ### 其他内容
 
@@ -339,8 +339,9 @@
 9. 参考文献注意事项，如会议期刊是否缩写，都需一致
 
 ## 其他链接
-![https://github.com/FudanSELab/academic-writing-guide]{https://github.com/FudanSELab/academic-writing-guide}
-![https://github.com/MLNLP-World/Paper-Writing-Tips]{https://github.com/MLNLP-World/Paper-Writing-Tips}
+[https://github.com/FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide)
+
+[https://github.com/MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
  ## 贡献者
 
