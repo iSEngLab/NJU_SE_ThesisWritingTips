@@ -338,6 +338,10 @@
 8. 中文关键词应是你的方向，你的技术体现
 9. 参考文献注意事项，如会议期刊是否缩写，都需一致
 
+## 其他链接
+![https://github.com/FudanSELab/academic-writing-guide]{https://github.com/FudanSELab/academic-writing-guide}
+![https://github.com/MLNLP-World/Paper-Writing-Tips]{https://github.com/MLNLP-World/Paper-Writing-Tips}
+
  ## 贡献者
 
 <a href="  https://github.com/QuanjunZhang">  <img src="https://avatars.githubusercontent.com/u/19492104?v=4"  width="80" /></a> 
