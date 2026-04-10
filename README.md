@@ -206,8 +206,6 @@
   journal = {arXiv preprint arXiv:1907.11692},
   title   = {RoBERTa: A Robustly Optimized BERT Pretraining Approach},
   year    = {2019},
-  pages   = {1--13},
-  volume  = {1},
 }
 
 @InProceedings{de2008z3,
@@ -218,8 +216,9 @@
   pages        = {337--340},
 }
 ```
+> Arxiv上的论文不需要pages和volume信息。
 
-引用中不要引用本硕博学位论文！
+引用中不要引用**本硕博学位论文**或**不知名期刊会议论文**！
 文章中需要有 5 篇及以上的中文 CCF-A 参考文献，推荐计算机学报、软件学报等期刊。
 
 ## 文章内容撰写注意
