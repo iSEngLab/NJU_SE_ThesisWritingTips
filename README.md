@@ -50,6 +50,7 @@
     - [表格生成](#表格生成)
     - [其他内容](#其他内容)
   - [Tips](#tips)
+  - [常见问题](#常见问题)
   - [贡献者](#贡献者)
 
 # 毕业设计写作建议
@@ -352,6 +353,16 @@
 7. 一些符号使用公式环境编辑，如P(t)和$P(t)$
 8. 中文关键词应是你的方向，你的技术体现
 9. 参考文献注意事项，如会议期刊是否缩写，都需一致
+
+## 常见问题
+
+### Overleaf 摘要中 "仓" 字被编译为 "仑" 字
+
+在 Overleaf（Linux 环境）下，摘要可能会遇到 "仓" 字被错误编译为 "仑" 字的问题。
+
+参考：[NJUThesis#220](https://github.com/nju-lug/NJUThesis/issues/220)
+
+解决方案：在 Windows 本地编译，或者自行添加字体。
 
 ## 其他链接
 [https://github.com/FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide)
